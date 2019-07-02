@@ -27,9 +27,6 @@ function layout(){
     var btn2 = document.getElementById('btn2')
     var num = document.getElementById('num').value
     var box = document.getElementById('box')
-    if (num.length == 0) {
-        alert('Selecione um número primeiro')
-    }
     else{
         box.innerHTML = `${res}`
     }
