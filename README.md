@@ -1,1 +1,1 @@
-# Fibonnaci-em-JavaScript
+# Fibonacci-em-JavaScript
