@@ -12,6 +12,10 @@ h1{
 p{
 	font-family: cambria;
 }
+a{
+	color: white;
+	font-style: none;
+}
 .container{
 	margin-top: 20px;
 	width: 40%;
