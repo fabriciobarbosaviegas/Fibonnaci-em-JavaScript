@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+	padding: auto;
+	background-color: #4286f4;
+}
+fieldset{
+	background-color: white;
+}
+h1{
+	font-family: calibri;
+}
+p{
+	font-family: cambria;
+}
+.container{
+	margin-top: 20px;
+	width: 40%;
+	border: none; 
+	border-radius: 10px 10px 10px 10px
+}
+.num{
+	text-align: center; 
+	font-size: 15px; 
+	border-radius: 10px 10px 10px 10px; 
+	border-color: grey;
+}
+.box{
+	border-radius: 10px 10px 10px 10px; 
+	border-color: grey;
+}
