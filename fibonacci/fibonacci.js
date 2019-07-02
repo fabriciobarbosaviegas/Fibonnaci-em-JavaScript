@@ -27,5 +27,10 @@ function layout(){
     var btn2 = document.getElementById('btn2')
     var num = document.getElementById('num').value
     var box = document.getElementById('box')
+    if (num.length == 0) {
+        box.innerHTML = `Insira um número`
+        }
+    else{
     box.innerHTML = `${res}`
+}
 }
